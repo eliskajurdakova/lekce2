@@ -1,0 +1,2 @@
+//Příjem divadla//
+//Kostka//
